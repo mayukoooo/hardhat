@@ -5,3 +5,5 @@
 
 - Hardhat Network 上で console.log()を行うにはそのためのインポートが必要。
   - import "hardhat/console.sol";
+
+   - Ethereumの本番環境は「mainnet」と呼ばれる。
